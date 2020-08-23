@@ -14,3 +14,11 @@ Basic desktop alarm clock
 ### Not essential features
 - User can customise background
 - Can run in background
+<<<<<<< HEAD
+=======
+=======
+basic desktop alarm clock
+
+
+# UNDER CONSTRUCTION
+>>>>>>> c10d432401300b9281175df597c5ad1af15836be
